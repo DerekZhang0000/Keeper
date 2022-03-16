@@ -1,0 +1,98 @@
+html { 
+    background: url("background.jpg") no-repeat center center fixed; 
+    background-size: cover;
+    font-family: sans-serif;
+    cursor: default;
+}
+label {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+h1 {
+    display:inline;
+    font-size: 80px;
+}
+h2 {
+    margin-bottom: 10px;
+    margin-bottom: 0px;
+}
+#recF {
+    color: rgb(0, 155, 0);
+}
+#wk2F {
+    color: rgb(221, 255, 28);
+    text-shadow: 1px 1px #7c7c7c;
+}
+#mo2F {
+    color: rgb(230, 48, 42);
+}
+#mo6F {
+    color: rgb(92, 92, 92);
+}
+#yr1F {
+    color: rgb(0, 0, 0);
+}
+p {
+    font-size: 12px;
+    text-shadow: 1px 1px #ffffff;
+}
+input {
+    display: inline;
+}
+button {
+    border: none;
+}
+button:hover {
+    cursor: pointer;
+}
+#saveButton {
+    padding: 1px 5px;
+    padding-top: 1px;
+    padding-right: 5px;
+    padding-bottom: 1px;
+    padding-left: 5px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+    color:rgb(255, 255, 255);
+    background-color: rgb(142, 149, 255);
+    margin-top: 5px;
+}
+#saveButton:hover {
+    color:rgb(160, 160, 160);
+    background-color: rgb(37, 52, 255)
+}
+#delete {
+    padding: 1px 5px;
+    padding-top: 1px;
+    padding-right: 5px;
+    padding-bottom: 1px;
+    padding-left: 5px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+    margin-left: 10px;
+    color:rgb(255, 255, 255);
+    background-color: rgb(214, 0, 0);
+}
+#delete:hover {
+    color:rgb(160, 160, 160);
+    background-color: rgb(133, 0, 0);
+}
+#refresh {
+    padding: 1px 5px;
+    padding-top: 1px;
+    padding-right: 5px;
+    padding-bottom: 1px;
+    padding-left: 5px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+    margin-left: 10px;
+    color:rgb(255, 255, 255);
+    background-color: rgb(5, 163, 0);
+}
+#refresh:hover {
+    color:rgb(160, 160, 160);
+    background-color: rgb(4, 116, 0);
+}
